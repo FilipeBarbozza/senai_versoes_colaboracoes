@@ -1,5 +1,5 @@
 <HTML>
-<HEAD>< Guia de Controle de Versionamento com Git 🚀</HEAD>
+<HEAD> Guia de Controle de Versionamento com Git 🚀</HEAD>
 <BODY>
    <H1> Aprenda a criar e unificar repositórios remotos para o controle de versionamento de códigos-fonte com Git.
 
