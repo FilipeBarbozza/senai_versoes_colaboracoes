@@ -1,7 +1,7 @@
-# senai_versoes_colaboracoes
-# Guia de Controle de Versionamento com Git 🚀
-
-Aprenda a criar e unificar repositórios remotos para o controle de versionamento de códigos-fonte com Git.
+<HTML>
+<HEAD><TITLE>Guia de Controle de Versionamento com Git 🚀</TITLE></HEAD>
+<BODY>
+   <H1> Aprenda a criar e unificar repositórios remotos para o controle de versionamento de códigos-fonte com Git.
 
 ```bash
 # Criando um Repositório Git Local
@@ -44,4 +44,6 @@ git merge --continue
 git tag -a <nome-da-tag> -m "Descrição da tag"
 
 <H1> Somente um resumo rapido e pratico do que fiz não inclui alguns detalhes, editando README.md e as questões do Controle de Versionamento com Git </H1>
-# Att. Filipe Barbozza
+# Att. Filipe Barbozza </H1>
+</BODY>
+</HTML>
