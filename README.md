@@ -42,3 +42,6 @@ git merge --continue
 # Demarcando Pontos no Código
 # Adicionar uma tag para marcar um ponto específico
 git tag -a <nome-da-tag> -m "Descrição da tag"
+
+<H1> Somente um resumo rapido e pratico do que fiz não inclui alguns detalhes, editando README.md e as questões do Controle de Versionamento com Git </H1>
+# Att. Filipe Barbozza
